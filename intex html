@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Document</title>
+</head>
+<body>
+    
+   <H1>Welcome</H1>
+   <h2>Welcome</h2>
+   <h3>Welcome</h3>
+   <H4>Welcome</H4>
+   <H6>Welcome</H6>
+   <h1>hi nanna</h1>
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum laboriosam obcaecati eligendi, dolorem ipsam, saepe quaerat sed magnam laudantium enim fugit architecto mollitia? Delectus sapiente dolor ipsam ex. Maiores, unde!
+   Odio excepturi ab incidunt temporibus non accusamus doloremque provident soluta, eligendi qui beatae ducimus quasi eos voluptatum? Necessitatibus placeat autem amet vel laudantium fuga quod explicabo, corporis veniam ipsum vitae?
+   Reprehenderit id corrupti fugit, nesciunt quisquam libero, architecto illum ullam vel alias minima numquam fugiat dolores necessitatibus optio accusamus iure consectetur autem ipsum eum odio! Hic porro cupiditate quaerat illum!
+   Ducimus tempore adipisci quas maiores provident praesentium atque quia modi similique architecto aut doloribus illo sint ex aspernatur nostrum quam necessitatibus, illum hic dolores at et sapiente. Exercitationem, at? Adipisci.
+   Distinctio, numquam doloribus maiores eveniet quod libero eum assumenda vel ex esse totam hic omnis odio cumque possimus autem quibusdam mollitia earum voluptate. Deserunt itaque, obcaecati optio qui perferendis distinctio! ipsum dolor sit amet consectetur adipisicing elit. Maiores enim quaerat eveniet nesciunt magnam quas beatae quibusdam quis alias temporibus est iste accusamus at vitae, quos minus in optio similique.</p>
+   
+<img src="https://bit.ly/image5556"alt="no image" height = "300px" weight="300px"/>
+
+<a href="https://en.wikipedia.org/wiki/Main_Page" target="blank">wikipedia</a>
+<iframe src="https://en.wikipedia.org/wiki/Main_Page"height="400pix" weight="400pix"></iframe>
+<figure>
+<img src="https://bit.ly/image5556" alt="no image" height = "300px" weight="300px"/>
+<figcaption>
+    KING
+</figcaption>
+</figure>
+
+</body>
+</html>
